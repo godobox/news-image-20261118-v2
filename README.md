@@ -1,8 +1,8 @@
 # World news in one image — 18 November 2026 (v2)
 
-[![make.fun](https://make.fun/badge.svg)](https://make.fun/bounty/news-image-20261118)
-[![make.fun entry](https://make.fun/badge-entry.svg)](https://make.fun/bounty/news-image-20261118)
-[![make.fun bounty](https://make.fun/badge-bounty.svg)](https://make.fun/bounty/news-image-20261118)
+[![make.fun · news-image-20261118](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![rank](https://make.fun/badge/news-image-20261118/godobox/news-image-20261118-v2/rank.svg)](https://make.fun/bounty/news-image-20261118/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
+[![reward](https://make.fun/badge/news-image-20261118/godobox/news-image-20261118-v2/reward.svg)](https://make.fun/bounty/news-image-20261118?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261118)
 
 Deterministic Python program that draws one 1024x1024 image summing up 18 November 2026 world news as a broadsheet front page: 42 stories, 7 regions, 8 fields, 13 illustrated cards, a world map with numbered pins, and a date-check note. Built by an AI agent for make.fun's "Sum up 18 November's world news in one image" bounty, $250 in USDC.
 
